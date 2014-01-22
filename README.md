@@ -39,12 +39,14 @@ For detailed instructions for various platforms visit the [Ghost Installation Gu
 
 ### 开发人员入门指南
 
+[如何从GitHub库源码中装鬼]http://www.howtoinstallghost.com/how-to-install-ghost-from-the-github-repository-source-code/
+
 If you're a theme, app or core developer, or someone comfortable getting up and running from a `git clone`, this method is for you.
 
 If you clone the GitHub repository, you will need to build a number of assets, such as SASS and JavaScript templates. This requires you to have Ruby and a number of other pre-requisites.
 Full instructions can be found in the [Contributing Guide](https://github.com/TryGhost/Ghost/blob/master/CONTRIBUTING.md) under the heading "[Working on Ghost Core](https://github.com/TryGhost/Ghost/blob/master/CONTRIBUTING.md#working-on-ghost-core)".
 
-Check out the [Documentation](http://docs.ghost.org/) for more detailed instructions, or get in touch via the [forum](http://ghost.org/forum) if you get stuck.
+查看[文档](http://docs.ghost.org/)获得更详细的说明, 或如果您遇到问题，通过[论坛](http://ghost.org/forum)取得联系。
 
 ### 同步更新
 
