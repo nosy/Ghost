@@ -1,4 +1,4 @@
-# [Ghost](https://github.com/TryGhost/Ghost) [![Build Status](https://travis-ci.org/TryGhost/Ghost.png?branch=master)](https://travis-ci.org/TryGhost/Ghost)
+# [鬼](https://github.com/TryGhost/Ghost) [![Build Status](https://travis-ci.org/TryGhost/Ghost.png?branch=master)](https://travis-ci.org/TryGhost/Ghost)
 
 Ghost is a free, open, simple blogging platform that's available to anyone who wants to use it. Lovingly created and maintained by [John O'Nolan](http://twitter.com/JohnONolan) + [Hannah Wolfe](http://twitter.com/ErisDS) + an amazing group of [contributors](https://github.com/TryGhost/Ghost/contributors).
 
@@ -18,22 +18,22 @@ There are **two** main ways to get started with Ghost, take care to use the meth
 
 **Please note** - the downloadable zip files we provide on [Ghost.org](http://ghost.org/download) are pre-built packages designed for getting started quickly. Cloning from the git repository requires you to install several dependencies and build the assets yourself. 
 
-### Getting Started Guide for Bloggers
+### 博主入门指南
 
 If you just want to get a Ghost blog running in the fastest time possible, this method is for you.
 
 For detailed instructions for various platforms visit the [Ghost Installation Guide](http://docs.ghost.org/installation/). If you get stuck, help is available on [our forum](http://ghost.org/forum/).
 
-1. Install [Node.js](http://nodejs.org) - Ghost requires **Node v0.10.***
-1. Download the latest Ghost package from [Ghost.org](http://ghost.org/download). 
+1. 安装 [Node.js](http://nodejs.org) - 鬼需要 **Node v0.10.***
+1. 从[Ghost.org](http://ghost.org/download)下载最新的幽灵包 . 
    **If you cloned the GitHub repository you should follow the instructions [for developers](https://github.com/TryGhost/Ghost#getting-started-guide-for-developers).**
-1. Create a new directory where you would like to run the code, and unzip the package to that location.
-1. Fire up a terminal (or node command prompt in Windows) and change directory to the root of the Ghost application (where config.example.js and index.js are)
-1. run `npm install --production` to install the node dependencies. If you see `error Error: ENOENT` on this step, make sure you are in the project directory and try again.
-1. To start ghost, run `npm start`
-1. Visit `http://localhost:2368/` in your web browser or go to `http://localhost:2368/ghost` to log in
+1. 创建一个要在其中运行代码的新目录，并解压包到该位置。
+1. 启动终端（或在Windows中的node命令提示符），并更改目录到Ghost应用程序的根 (config.example.js 和 index.js所在的位置)
+1. 运行 `npm install --production` 安装node依赖包. 如果在这步看到 `error Error: ENOENT`，确定你是否在应用目录并再试一次。
+1. 启动幽灵, 运行 `npm start`
+1. 在浏览器中访问 `http://localhost:2368/` 并去 `http://localhost:2368/ghost` 页登录
 
-Check out the [Documentation](http://docs.ghost.org/) for more detailed instructions, or get in touch via the [forum](http://ghost.org/forum) if you get stuck.
+查看[文档](http://docs.ghost.org/)获得更详细的说明, 或如果您遇到问题，通过[论坛](http://ghost.org/forum)取得联系。
 
 
 
@@ -46,7 +46,7 @@ Full instructions can be found in the [Contributing Guide](https://github.com/Tr
 
 Check out the [Documentation](http://docs.ghost.org/) for more detailed instructions, or get in touch via the [forum](http://ghost.org/forum) if you get stuck.
 
-### Updating with the latest changes
+### 同步更新
 
 Documentation on updating can be found in the [Ghost Guide](http://docs.ghost.org/installation/upgrading/)
 
