@@ -26,7 +26,7 @@ For detailed instructions for various platforms visit the [Ghost Installation Gu
 
 1. 安装 [Node.js](http://nodejs.org) - 鬼需要 **Node v0.10.***
 1. 从[Ghost.org](http://ghost.org/download)下载最新的幽灵包 . 
-   **If you cloned the GitHub repository you should follow the instructions [for developers](https://github.com/TryGhost/Ghost#getting-started-guide-for-developers).**
+   **如果你克隆了GitHub的库，您应该遵循[开发者](https://github.com/TryGhost/Ghost#getting-started-guide-for-developers)说明。**
 1. 创建一个要在其中运行代码的新目录，并解压包到该位置。
 1. 启动终端（或在Windows中的node命令提示符），并更改目录到Ghost应用程序的根 (config.example.js 和 index.js所在的位置)
 1. 运行 `npm install --production` 安装node依赖包. 如果在这步看到 `error Error: ENOENT`，确定你是否在应用目录并再试一次。
