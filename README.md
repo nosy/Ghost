@@ -6,13 +6,13 @@ Visit the project's website at <http://ghost.org>!
 
 Full documentation is available at <http://docs.ghost.org>.
 
-## Getting Involved
+## 参与文库建设
 
 Want to report a bug, request a feature, or help us build or translate Ghost? Check out our in depth guide to [Contributing to Ghost](https://github.com/TryGhost/Ghost/blob/master/CONTRIBUTING.md). We need all the help we can get! You can also join in with our [community](https://github.com/TryGhost/Ghost#community) to keep up-to-date and meet other Ghosters.
 
 
 
-## Getting Started
+## 入门
 
 There are **two** main ways to get started with Ghost, take care to use the method which best suits your needs.
 
@@ -37,7 +37,7 @@ Check out the [Documentation](http://docs.ghost.org/) for more detailed instruct
 
 
 
-### Getting Started Guide for Developers
+### 开发人员入门指南
 
 If you're a theme, app or core developer, or someone comfortable getting up and running from a `git clone`, this method is for you.
 
@@ -50,7 +50,7 @@ Check out the [Documentation](http://docs.ghost.org/) for more detailed instruct
 
 Documentation on updating can be found in the [Ghost Guide](http://docs.ghost.org/installation/upgrading/)
 
-### Logging in For The First Time
+### 第一时间登录
 
 Once you have the Ghost server up and running, you should be able to navigate to `http://localhost:2368/ghost/` from a web browser, where you will be prompted for a login.
 
@@ -61,7 +61,7 @@ Once you have the Ghost server up and running, you should be able to navigate to
 Note - this is still very alpha. Not everything works yet.
 
 
-## Community
+## 社区
 
 Keep track of Ghost development and Ghost community activity.
 
@@ -71,7 +71,7 @@ Keep track of Ghost development and Ghost community activity.
 * Chat with Ghost developers on IRC. We're on `irc.freenode.net`, in the `#Ghost` channel. We have a public meeting every Tuesday at 5:30pm London time.
 
 
-## Versioning
+## 版本
 
 For transparency and insight into our release cycle, and for striving to maintain backward compatibility, Ghost will be maintained according to the [Semantic Versioning](http://semver.org/) guidelines as much as possible.
 
@@ -87,7 +87,7 @@ Constructed with the following guidelines:
 * A new *build* release indicates this is a pre-release of the version.
 
 
-## Copyright & License
+## 版权及许可
 
 Copyright (C) 2014 The Ghost Foundation - Released under the MIT License.
 
