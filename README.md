@@ -39,7 +39,7 @@ For detailed instructions for various platforms visit the [Ghost Installation Gu
 
 ### 开发人员入门指南
 
-[如何从GitHub库源码中装鬼]http://www.howtoinstallghost.com/how-to-install-ghost-from-the-github-repository-source-code/
+[如何从GitHub库源码中装鬼](http://www.howtoinstallghost.com/how-to-install-ghost-from-the-github-repository-source-code/)
 
 If you're a theme, app or core developer, or someone comfortable getting up and running from a `git clone`, this method is for you.
 
